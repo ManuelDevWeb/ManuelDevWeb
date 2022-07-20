@@ -1,6 +1,6 @@
 ###  Hi I'm Manuel 👨‍💻👋
 
-#### Computer Engineering, Developer FullStack Javascript.
+#### Computer Engineer, Developer FullStack Javascript.
 ![Computer Engineering, Developer FullStack Javascript.](https://res.cloudinary.com/practicaldev/image/fetch/s--nC1yoqNf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png)
 
 I am passionate about technology, self-taught and pragmatic. I enjoy solving and analyzing problems through software solutions, applying algorithmic and logical knowledge. 
